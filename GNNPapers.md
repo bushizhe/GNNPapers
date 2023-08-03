@@ -1,6 +1,7 @@
 # ICLR2023
 
 ## Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency
+GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据依赖导致扩展性首先，很难部署于实际场景中。
 
 ## MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization 
 
