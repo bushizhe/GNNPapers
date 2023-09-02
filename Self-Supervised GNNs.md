@@ -14,7 +14,9 @@
 
 
 ### MVGRL: Contrastive Multi-View Representation Learning on Graphs, ICML2020
+节点 local-global 对比学习;
 ![image](https://github.com/bushizhe/GNNPapers/assets/34935033/a900cdd8-0980-49df-b9b2-8ce2c01d809f)
+该框架仅有图结构数据增强，并无节点级数据增强；
 
 
 ### GRAND: Graph Random Neural Network for Semi-Supervised Learning on Graphs, NeurIPS 2020
