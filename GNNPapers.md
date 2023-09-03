@@ -38,3 +38,11 @@ GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据�
 |Simple and Deep Graph Convolutional Networks|PMLR2020|[paper](https://arxiv.org/pdf/2007.02133.pdf)|[GCNII](https://github.com/chennnM/GCNII)|
 
 
+## Graph AutoEncoder
+|Title|Published|Paper|Code|
+|----|----|----|-----|
+|GraphMAE: Self-Supervised Masked Graph Autoencoders|KDD22|[paper](https://arxiv.org/abs/2205.10803)|[GraphMAE](https://github.com/THUDM/GraphMAE)|
+|GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner|WWW23|[paper](https://arxiv.org/abs/2304.04779)|[GraphMAE2](https://github.com/THUDM/GraphMAE2)|
+
+
+### 
