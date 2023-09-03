@@ -24,8 +24,8 @@ GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据�
 
 ### AutoGT: Automated Graph Transformer Architecture Search
 
-## NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs
+### NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs
 
-## Specformer: Spectral Graph Neural Networks Meet Transformers 
+### Specformer: Spectral Graph Neural Networks Meet Transformers 
 
-## ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion
+### ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion
