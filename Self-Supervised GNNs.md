@@ -1,6 +1,7 @@
 
 |Title| Published|Paper|Code|
 |------|---------|------|------|
+|S2GAE: Self-Supervised Graph Autoencoders Are GeneralizableLearners with Graph Masking|WSDM23|[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570404)|[S2GAE](https://github.com/qiaoyu-tan/S2GAE)|
 |GraphMAE: Self-Supervised Masked Graph Autoencoders|KDD22|[paper](https://arxiv.org/abs/2205.10803)|[GraphMAE](https://github.com/THUDM/GraphMAE)|
 |GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner|WWW23|[paper](https://arxiv.org/abs/2304.04779)|[GraphMAE2](https://github.com/THUDM/GraphMAE2)|
 |CCA-SSG: From Canonical Correlation Analysis to Self-supervised Graph Neural Networks|NeurIPS 2021| [paper](https://arxiv.org/pdf/2106.12484.pdf)|[CCA-SSG](https://github.com/hengruizhang98/CCA-SSG)|
@@ -10,13 +11,15 @@
 |Graph Contrastive Learning with Augmentations|NeurIPS 2020|[paper](https://arxiv.org/pdf/2010.13902.pdf)|[GraphCL](https://github.com/Shen-Lab/GraphCL)|
 |Self-supervised Graph-level Representation Learning with Local and Global Structure|ICML2021|[paper](https://arxiv.org/pdf/2106.04113.pdf)|[GraphLog](https://github.com/DeepGraphLearning/GraphLoG)|
 
+### S2GAE: Self-Supervised Graph Autoencoders Are GeneralizableLearners with Graph Masking, WSDM23
+![image](https://github.com/bushizhe/GNNPapers/assets/34935033/325aee46-510f-4ce2-9bb0-a7b3a2e2224f)
+
 
 ### GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD22
 ![image](https://github.com/bushizhe/GNNPapers/assets/34935033/67160a10-5bd4-43f6-b611-7bd66b2177da)
 
 ### GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW23
 ![image](https://github.com/bushizhe/GNNPapers/assets/34935033/e79a39e0-cf16-485b-92f2-c20d9b2f10f2)
-
 
 
 ### CCA-SSG: From Canonical Correlation Analysis to Self-supervised Graph Neural Networks, NeurIPS2021
