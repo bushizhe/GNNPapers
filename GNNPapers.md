@@ -34,6 +34,7 @@ GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据�
 ## 
 |Title|Published|Paper|Code|
 |----|-----|-----|-----|
+|DropEdge: Towards Deep Graph Convolutional Networks on Node Classification|ICLR2020|[paper](https://arxiv.org/pdf/1907.10903.pdf)|[DropEdge](https://github.com/DropEdge/DropEdge)|
 |Simple and Deep Graph Convolutional Networks|PMLR2020|[paper](https://arxiv.org/pdf/2007.02133.pdf)|[GCNII](https://github.com/chennnM/GCNII)|
 
 
