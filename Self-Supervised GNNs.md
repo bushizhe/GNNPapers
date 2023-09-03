@@ -1,12 +1,21 @@
 
 |Title| Published|Paper|Code|
 |------|---------|------|------|
+|GraphMAE: Self-Supervised Masked Graph Autoencoders|KDD22|[paper](https://arxiv.org/abs/2205.10803)|[GraphMAE](https://github.com/THUDM/GraphMAE)|
+|GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner|WWW23|[paper](https://arxiv.org/abs/2304.04779)|[GraphMAE2](https://github.com/THUDM/GraphMAE2)|
 |CCA-SSG: From Canonical Correlation Analysis to Self-supervised Graph Neural Networks|NeurIPS 2021| [paper](https://arxiv.org/pdf/2106.12484.pdf)|[CCA-SSG](https://github.com/hengruizhang98/CCA-SSG)|
 |Deep Graph Contrastive Representation Learning | | [paper](https://arxiv.org/abs/2006.04131v2)|[GRACE](https://github.com/CRIPAC-DIG/GRACE)|
 |MVGRL: Contrastive Multi-View Representation Learning on Graphs|ICML 2020|[paper](https://arxiv.org/abs/2006.05582)|[mvgrl](https://github.com/hengruizhang98/mvgrl)|
 |GRAND: Graph Random Neural Network for Semi-Supervised Learning on Graphs|NeurIPS 2020 Oral|[paper](https://arxiv.org/abs/2005.11079)|[GRAND](https://github.com/hengruizhang98/GRAND)|
 |Graph Contrastive Learning with Augmentations|NeurIPS 2020|[paper](https://arxiv.org/pdf/2010.13902.pdf)|[GraphCL](https://github.com/Shen-Lab/GraphCL)|
 |Self-supervised Graph-level Representation Learning with Local and Global Structure|ICML2021|[paper](https://arxiv.org/pdf/2106.04113.pdf)|[GraphLog](https://github.com/DeepGraphLearning/GraphLoG)|
+
+
+### GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD22
+![image](https://github.com/bushizhe/GNNPapers/assets/34935033/67160a10-5bd4-43f6-b611-7bd66b2177da)
+
+### GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW23
+![image](https://github.com/bushizhe/GNNPapers/assets/34935033/e79a39e0-cf16-485b-92f2-c20d9b2f10f2)
 
 
 
