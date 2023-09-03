@@ -1,4 +1,4 @@
-# ICLR2023
+## ICLR2023
 
 ### Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency
 GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据依赖导致扩展性受限，很难部署于实际场景中。现有方法试图通过使用来自预训练的GNN的标签仅在结点内容特征上训练MLP来解决GNN扩展性问题。
@@ -29,3 +29,11 @@ GNN在非欧式结构数据上表现出惊人的性能，但由于多跳数据�
 ### Specformer: Spectral Graph Neural Networks Meet Transformers 
 
 ### ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion
+
+
+## 
+|Title|Published|Paper|Code|
+|----|-----|-----|-----|
+|Simple and Deep Graph Convolutional Networks|PMLR2020|[paper](https://arxiv.org/pdf/2007.02133.pdf)|[GCNII](https://github.com/chennnM/GCNII)|
+
+
