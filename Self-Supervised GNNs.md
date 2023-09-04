@@ -1,6 +1,7 @@
 
 |Title| Published|Paper|Code|
 |------|---------|------|------|
+|Adversarial Graph Augmentation to Improve Graph Contrastive Learning|NeurIPS 2021|[paper](https://arxiv.org/abs/2106.05819)|[adgcl](https://github.com/susheels/adgcl)|
 |What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders|KDD2023|[paper](https://arxiv.org/abs/2205.10053)|[MaskGAE](https://github.com/EdisonLeeeee/MaskGAE)|
 |S2GAE: Self-Supervised Graph Autoencoders Are GeneralizableLearners with Graph Masking|WSDM23|[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570404)|[S2GAE](https://github.com/qiaoyu-tan/S2GAE)|
 |GraphMAE: Self-Supervised Masked Graph Autoencoders|KDD22|[paper](https://arxiv.org/abs/2205.10803)|[GraphMAE](https://github.com/THUDM/GraphMAE)|
@@ -11,6 +12,10 @@
 |GRAND: Graph Random Neural Network for Semi-Supervised Learning on Graphs|NeurIPS 2020 Oral|[paper](https://arxiv.org/abs/2005.11079)|[GRAND](https://github.com/hengruizhang98/GRAND)|
 |Graph Contrastive Learning with Augmentations|NeurIPS 2020|[paper](https://arxiv.org/pdf/2010.13902.pdf)|[GraphCL](https://github.com/Shen-Lab/GraphCL)|
 |Self-supervised Graph-level Representation Learning with Local and Global Structure|ICML2021|[paper](https://arxiv.org/pdf/2106.04113.pdf)|[GraphLog](https://github.com/DeepGraphLearning/GraphLoG)|
+
+### Adversarial Graph Augmentation to Improve Graph Contrastive Learning, NeurIPS 2021
+![image](https://github.com/bushizhe/GNNPapers/assets/34935033/22c2c987-0f14-4278-83ee-015b630420ff)
+
 
 ### What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders, KDD2023
 ![image](https://github.com/bushizhe/GNNPapers/assets/34935033/f554798d-d817-4800-940a-06601df290fd)
